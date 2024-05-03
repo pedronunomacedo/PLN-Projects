@@ -1,0 +1,13 @@
+2nd_project/distilbert-base-uncased-finetuned-nlp_assignment2/
+2nd_project/distilbert-base-uncased-finetuned-nlp_assignment2/*
+2nd_project/nlp_assignment2_mlm/
+2nd_project/nlp_assignment2_mlm/*
+2nd_project/nlp_assignment2_basemodel/
+2nd_project/nlp_assignment2_basemodel/*
+2nd_project/domain-adapted-model/
+2nd_project/domain-adapted-model/*
+2nd_project/nlp_assignment2-domain-adapted/
+2nd_project/nlp_assignment2-domain-adapted/*
+
+.DS_Store
+
